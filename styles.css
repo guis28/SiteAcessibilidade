@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #c1a1a1cf;
 }
 
 
@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #cb4382;
     font-weight: 600;
 }
 
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #c26767;
 
 }
 
@@ -121,7 +121,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #6b5a5a;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -132,13 +132,13 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #714632;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #d0639a;
 }
 .menu-acessibilidade{
     position: fixed;
